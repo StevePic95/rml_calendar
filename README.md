@@ -11,6 +11,6 @@ cPanel has its own clone of the GitHub repo in `~/repositories/rml_calendar`. Wh
 4. Click "Update from Remote" to pull updates from the GitHub repo to the cPanel repo
 5. Click "Deploy HEAD Commit" to deploy the changes to the live site
 
-![illustration of pull deployment](https://docs.cpanel.net/img/git-push-deployment-workflow.png)
+![illustration of pull deployment](https://docs.cpanel.net/img/git-pull-deployment-workflow.png)
 
 See [this article](https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-how-to-set-up-deployment/) for more information on pull deployment.
